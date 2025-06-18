@@ -19,11 +19,6 @@ marquee{
     background:rgb(27, 24, 27);
     border-radius: 5rem;
 }
-/* .navbar-light { */
-.navbar-light .navbar-toggler-icon{
-        /* background-image: none; */
-        background-image: url("/image/navigation-bar-icons-png-3.png");
-    }
 
 /* nav styling */
 
@@ -62,7 +57,7 @@ marquee{
 }
 
 header{
-    background-image: url(/image/fruit.jpg);
+    background-image: url(../image/fruit.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
